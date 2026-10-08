@@ -1,0 +1,27 @@
+BUSINESS: Sunrise Cafe
+ADDRESS: 12 Lake Road, City Centre (next to the central bank branch)
+PHONE: 01700-000000
+OPENING HOURS: Every day, 8:00 AM to 11:00 PM. Closed on public holidays until 2:00 PM.
+
+MENU & PRICES:
+- Espresso: 150
+- Cappuccino: 220
+- Cold Coffee: 250
+- Chicken Sandwich: 280
+- Veg Pasta: 320
+- Chocolate Cake (slice): 180
+
+DELIVERY:
+- Delivery available within 5 km.
+- Delivery charge: 60. Free delivery on orders above 1000.
+- Delivery time: 30 to 45 minutes.
+
+PAYMENT: Cash, card, and mobile payment accepted.
+
+OFFERS:
+- Buy 2 cold coffees, get 1 cake slice free (weekdays only).
+
+OTHER:
+- Free Wi-Fi for customers.
+- Seating for 40 people. Table booking available by phone.
+- No outside food allowed.
